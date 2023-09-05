@@ -5,11 +5,14 @@ body {
 .logo {
     width: 500px;
     height: 450px;
+    display: block;
+    margin: 0px auto;
+    padding: auto;
 }
 
 .logo2 {
     width: 780px;
-    height: 780px;
+    height: 750px;
     display: block;
     margin: 0px auto;
 }
@@ -28,6 +31,10 @@ body {
 
 .text-colored {
     color: #f2c879;
+}
+
+.text-colored2 {
+    color: #4DBF3B ;
 }
 
 .pdr {
