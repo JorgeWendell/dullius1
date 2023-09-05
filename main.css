@@ -1,10 +1,10 @@
 body {
-    background-color: #000;
+    background-color: #0d0d0d;
 }
 
 .logo {
     width: 500px;
-    height: 500px;
+    height: 450px;
 }
 
 .logo2 {
@@ -18,31 +18,31 @@ body {
     display: block;
     margin: 0px auto;
     width: 100px;
-    background-color: #daa520;
+    background-color: #f2c879;
 }
 
 .inicial:hover {
    
-    background-color: #daa520;
+    background-color: #f2c879
 }
 
 .text-colored {
-    color: #daa520;
+    color: #f2c879;
 }
 
 .pdr {
-    color: #fff;
+    color: #f2c879;
 }
 
 
 .nav-cardapio .nav-link.active,
 #fale-conosco button {
-    background-color: #daa520;
-    color: #fff;
+    background-color: #f2c879;
+    color: #f2c879;
 }
 
 .nav-cardapio .nav-link:hover {
-    color: #daa520;
+    color: #f2c879;
 }
 
 .resposta {
@@ -51,4 +51,8 @@ body {
 
 footer {
     text-align: center;
+}
+
+.colap {
+    background-color: #4dbf3b;
 }
